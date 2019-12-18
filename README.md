@@ -1,2 +1,2 @@
 # homework2
-Code repository for Homework 1
+Code repository for Homework 2
