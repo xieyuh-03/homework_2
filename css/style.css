@@ -54,6 +54,5 @@ div{
 }
 footer p{
     text-align: right;
-    padding-right: 10px;
-    padding-bottom: 10px;
+    padding: 0px 10px 10px 0px;
 }
